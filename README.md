@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ignacio Rosas </h1>
-<h3 align="center">A passionate Solutions Architect from Spain</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ignacio Rosas  <img src="https://github.com/iarosas/iarosas/blob/main/images/rosa.gif" width="45"></h1>
+<h3 align="center">A passionate Solutions Architect from Spain <img src="https://github.com/iarosas/iarosas/blob/main/images/nube.gif" width="40">  </h3>
 
 - 🔭 I’m currently working on **Junior Cloud Architect**
 
